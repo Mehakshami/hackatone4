@@ -1,0 +1,31 @@
+.nav-item a{
+    color: white;
+}
+.button class a{
+    color: black;
+}
+.box{
+    background-color: black;
+    justify-content: center;
+    height: 40rem;
+    margin: 20px;
+}
+.box h1{
+    color: white;
+}
+.box p{
+    color: white;
+}
+.card{
+    margin: 30px;
+}
+.box1{
+    background-color: black;
+    justify-content: center;
+    height: 10rem;
+    margin: 20px;
+
+}
+
+
+
